@@ -1,2 +1,1 @@
 # adoraveth-bot
-e
